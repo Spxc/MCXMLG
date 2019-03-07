@@ -1,5 +1,6 @@
 # MCXMLG
 Google Merchant Center XML feed generator using php and mysql.
+Live view can be found here: https://instebo.one/projects/capi/
 
 # SETUP YOUR MYSQL TABLE
 Add the columns as shown below, if you dont already have a table with products.
